@@ -2,7 +2,7 @@
   <header class="flex justify-between border-b border-gray-200 px-10 py-10">
 
     <div class="flex items-center gap-4">
-      <img src="/logo.png" alt="Logo" class="w-10"/>
+      <img src="/logo.jpg" alt="Logo" class="w-16 rounded-full" />
       <div>
         <h2 class="text-xl font-bold uppercase">Trust Shop</h2>
         <p class="text-slate-400">Лучший магазин на свете</p>
