@@ -1,7 +1,7 @@
 <script setup>
-  import MyHello  from '@/components/MyHello.vue'
+  import MyHello  from './components/MyHello.vue'
 </script>
 
 <template>
-  <MyHello />
+  <MyHello title="puma"/>
 </template>

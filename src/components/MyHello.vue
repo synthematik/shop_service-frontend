@@ -15,10 +15,14 @@
     count.value = Number(event.target.value)
   }
 
+  defineProps({
+    title: String
+  })
+
 </script>
 
 <template>
-  <p>{{ count }}</p>
+  <p>{{title}}</p>
   <button @click="increament">go</button>
   <button @click="decreament">go go</button>
   <input @input="updateCount"/>
