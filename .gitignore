@@ -30,3 +30,6 @@ coverage
 /.vscode/
 
 *.tsbuildinfo
+
+/src/axios.js
+/src/components/Test.vue
