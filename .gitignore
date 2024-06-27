@@ -31,5 +31,5 @@ coverage
 
 *.tsbuildinfo
 
-/src/axios.js
+
 /src/components/Test.vue
